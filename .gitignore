@@ -1,3 +1,4 @@
 .idea/*
-datasets/*
 ck_output/*
+**/qscored*
+**/.ipynb_checkpoints/*
